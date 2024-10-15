@@ -58,3 +58,7 @@ Student specialScholarshipStudent1 = new SpecialScholarshipDecorator(sportsStude
 
 // Evaluate the student
 specialScholarshipStudent1.evaluate();
+```
+### How it Works
+   - The **Factory Method** ensures that the system can easily create different types of students without modifying the core logic.
+   - The **Decorator Pattern** allows you to add multiple layers of evaluation (e.g., sports quota and special scholarship) dynamically, enhancing the flexibility and scalability of the system.
