@@ -65,3 +65,6 @@ specialScholarshipStudent1.evaluate();
 
 ### Class Diagram
 ![img/student.png](img/Student.png)
+
+### Requirements Diagram
+![img/Requirements-diagram.svg](img/Requirements-diagram.svg)
